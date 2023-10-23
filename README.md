@@ -17,8 +17,3 @@
 | [14. Обработка фотографий покупателя](https://github.com/LexlexD23/yandex-praktikum-projects/tree/main/CV) |  Строится модель, которая по фотографии определит приблизительный возраст человека. В вашем распоряжении набор фотографий людей с указанием возраста. | python keras sklearn |
 | [15. Прогнозирование оттока телеком компании](https://github.com/LexlexD23/yandex-praktikum-projects/tree/main/Telecom) | поиск модели прогнозирования , выделение важнейших факторов влияющих на прогноз. | pandas sklearn matplotlib |
 
-
-
-
-
-[GitHub](https://github.com/](https://github.com/LexlexD23/yandex-praktikum-projects/tree/main)https://github.com/LexlexD23/yandex-praktikum-projects/tree/main)
